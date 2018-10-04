@@ -4,7 +4,7 @@
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at : 10
+## Currently at : 11
 
 [1] The usual way
 
@@ -25,6 +25,8 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 [9] Runnable animation with a slice of Random
 
 [10] Brute force. This is going to take a while (loop pun!).
+
+[11] I make my own Exceptions.
 
 
 ## Contribute :wink:
