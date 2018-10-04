@@ -28,6 +28,8 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 
 [11] I make my own Exceptions.
 
+[12] Using ENUM
+
 
 ## Contribute :wink:
 
