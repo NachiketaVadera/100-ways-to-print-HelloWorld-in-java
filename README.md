@@ -4,7 +4,7 @@
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at : 13
+## Currently at : 14
 
 [1] The usual way
 
@@ -31,6 +31,8 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 [12] Using ENUM by [pinarkaymaz6](https://github.com/pinarkaymaz6)
 
 [13] This guy Scanned it. by [Crashn](https://github.com/Crashn)
+
+[14] I ACSII you to print Hello World by [Dirgh-Kotharia](https://github.com/Dirgh-Kotharia)
 
 ## Contribute :wink:
 
