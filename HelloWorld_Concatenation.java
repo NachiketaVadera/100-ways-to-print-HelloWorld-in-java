@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class HelloWorld_Concatenation {
 	public static void main( String[] args ) {
 		String hello = "Hello ";
 		String world = "World!";
