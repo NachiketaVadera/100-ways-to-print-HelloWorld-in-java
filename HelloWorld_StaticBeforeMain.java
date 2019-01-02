@@ -1,4 +1,4 @@
-public class HelloWorld_StaticBeforeMain {
+        public class HelloWorld_StaticBeforeMain {
         
         static {
                 System.out.print("Hello, ");
