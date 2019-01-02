@@ -4,7 +4,7 @@
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at : 16
+## Currently at : 17
 
 [1] The usual way
 
@@ -37,6 +37,8 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 [15] Let's join the String by [gilletted](https://github.com/gilletted)
 
 [16] Well, I'm just calling functions by [dictionary243](https://github.com/dictionary243)
+
+[17] main() comes in second as static block steals the first spot!
 
 ## Contribute :wink:
 
