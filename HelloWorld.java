@@ -1,4 +1,4 @@
-// Way_01 : The usual way
+// Way_02 : Try a different way
 
 public class HelloWorld {
         public static void main(String[] args) {
