@@ -4,7 +4,7 @@
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at : 19
+## Currently at : 20
 
 [1] The usual way
 
@@ -43,6 +43,8 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 [18] I assume therefore I assert.
 
 [19] Olny a couple ways to say things.
+
+[20] Good grid! by [rmehri01](https://github.com/rmehri01)
 
 ## Contribute :wink:
 
