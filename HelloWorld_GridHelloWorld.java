@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class GridHelloWorld {
+public class HelloWorld_GridHelloWorld {
     public static void main(String[] args) {
         String phrase = "Hello World!";
         String[][] grid = new String[10][10];
