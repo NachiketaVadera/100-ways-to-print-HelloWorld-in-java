@@ -46,6 +46,8 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 
 [20] Good grid! by [rmehri01](https://github.com/rmehri01)
 
+[21] System will do it for me.
+
 ## Contribute :wink:
 
 Why would't you join me in my amazing quest?
