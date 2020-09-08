@@ -4,7 +4,7 @@
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at : 23
+## Currently at : 24
 
 [1] The usual way
 
@@ -51,6 +51,8 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 [22] Recursion by [CarltonBranch](https://github.com/CarltonBranch)
 
 [23] Lists :ballot_box_with_check: by [Goku-kun](https://github.com/Goku-kun)
+
+[24] Do it without a Semicolon! by [subhamsagar524](https://github.com/subhamsagar524)
 
 ## Contribute :wink:
 
