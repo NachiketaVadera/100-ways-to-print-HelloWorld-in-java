@@ -1,4 +1,4 @@
-// Way_25 : Using TCP Connection between server and client (your pc is the server and client at the same time)
+// Way_26 : Using TCP Connection between server and client (your pc is the server and client at the same time)
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
