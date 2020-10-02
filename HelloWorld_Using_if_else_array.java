@@ -1,6 +1,6 @@
 package code;
 
-public class HelloWorld {
+public class HelloWorld_Using_if_else_array {
 
 	public static void main(String[] args) {
 		String h = "H";
