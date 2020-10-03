@@ -4,7 +4,7 @@
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at : 25
+## Currently at : 38
 
 [1] The usual way
 
@@ -55,6 +55,32 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 [24] Do it without a Semicolon! by [subhamsagar524](https://github.com/subhamsagar524)
 
 [25] From morse code! by [EnzoRobaina](https://github.com/EnzoRobaina)
+
+[26] [jaspervhaastert](https://github.com/jaspervhaastert) had a little lambda.
+
+[27] Charing for each by [Vishant93](https://github.com/Vishant93)
+
+[28] [rsdiz](https://github.com/rsdiz) uses a Map to navigate.
+
+[29] [notjacob-dev](https://github.com/notjacob-dev) threw the output into a pastebin!
+
+[30] A temp output but not if you argue, by [notjacob-dev](https://github.com/notjacob-dev)
+
+[31] Framing the output by [nafladiva](https://github.com/nafladiva)
+
+[32] A decisive array by [Roshanpaswan](https://github.com/Roshanpaswan)
+
+[33] Calling all characters by [Aditi-Roy-coder](https://github.com/Aditi-Roy-coder)
+
+[34] ICP, UCP but [Symbolism00](https://github.com/Symbolism00) uses TCP!
+
+[35] We'll always have singleton [Gajendrakm](https://github.com/Gajendrakm)
+
+[36] [ParthPali](https://github.com/ParthPali) chars recursively.
+
+[37] [rangolucas](https://github.com/rangolucas) is ASCII you to see the art!
+
+[38] esrever ni tub ,dlrow olleh by [0xdeki](https://github.com/0xdeki)
 
 ## Contribute :wink:
 
