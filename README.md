@@ -82,6 +82,8 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 
 [38] esrever ni tub ,dlrow olleh by [0xdeki](https://github.com/0xdeki)
 
+[39] Hello World Using Callable [RamGSuri](https://github.com/ramgsuri)
+
 ## Contribute :wink:
 
 Why would't you join me in my amazing quest?
