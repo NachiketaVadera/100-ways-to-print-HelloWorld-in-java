@@ -1,18 +1,25 @@
 
 public class HelloWorld_Singleton {
 	
-	private String str1;
+	private String greetings;
+	
+	private static HelloWorld_Singleton singletonClass= null;
 	
     private  HelloWorld_Singleton() {
-    	str1 ="Hello,World!";
+    	greetings ="Hello,World!";
 	}
     
     public static HelloWorld_Singleton getInstance(){
-    	return new HelloWorld_Singleton();
+    	
+    	if(singletonClass == null){
+    		 singletonClass = new HelloWorld_Singleton();
+    	} 
+    	return singletonClass;
+    	
     }
     
     public static void main(String[] args) {
-    	System.out.println(HelloWorld_Singleton.getInstance().str1);
+    	System.out.println(HelloWorld_Singleton.getInstance().greetings);
     	
 	}
 
