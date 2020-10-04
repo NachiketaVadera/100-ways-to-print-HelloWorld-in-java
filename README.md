@@ -1,10 +1,11 @@
 # 100-ways-to-print-HelloWorld-in-java
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/NachiketaVadera/100-ways-to-print-HelloWorld-in-java/issues)
+![GitHub contributors](https://img.shields.io/github/contributors/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?style=for-the-badge)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?color=%23ccffcc&style=for-the-badge)
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at: 51
+## Currently at: 52
 
 [1] The usual way
 
@@ -107,6 +108,8 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 [50] Serialization/Deserialization by [hryxna](https://github.com/hryxna)
 
 [51] When 10 is not enough, use 16 by [harisfi](https://github.com/harisfi)
+
+[52] Slide to make it appear
 
 ## Contribute :wink:
 
