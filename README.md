@@ -4,7 +4,7 @@
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at : 51
+## Currently at: 51
 
 [1] The usual way
 
