@@ -121,4 +121,4 @@ Why wouldn't you join me in my amazing quest?
 2. Create your feature branch: `git checkout -b new-branch`
 3. Commit your changes: `git commit -am 'Make a valuable addition'`
 4. Push to the branch: `git push origin new-feature`
-5. Submit a pull request :D
+5. Submit a pull request
