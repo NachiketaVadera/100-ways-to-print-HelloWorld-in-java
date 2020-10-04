@@ -31,7 +31,7 @@ public class HelloWorld_Reflection {
         public void printHelloWorld() throws NoSuchMethodException, InvocationTargetException, IllegalAccessException, ClassNotFoundException, InstantiationException {
             //Might as well create the StringBuilder object via reflection too
             Class<?> stringBuilderClass = Class.forName("java.lang.StringBuilder");
-            StringBuilder stringBuilder = (StringBuilder) stringBuilderClass.newInstance();
+            StringBuilder stringBuilder = (StringBuilder) stringBuilderClass.getDeclaredConstructor().newInstance();
 
             Method capitaliseFirstLetterMethod = ClassWithHelloWorldFields.class.getDeclaredMethod("capitaliseFirstLetter", String.class);
             Method append = stringBuilderClass.getDeclaredMethod("append", String.class);
