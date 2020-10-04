@@ -4,7 +4,7 @@
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at : 38
+## Currently at : 51
 
 [1] The usual way
 
@@ -83,6 +83,30 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 [38] esrever ni tub ,dlrow olleh by [0xdeki](https://github.com/0xdeki)
 
 [39] Hello World Using Callable by [RamGSuri](https://github.com/ramgsuri)
+
+[40] Serving Hello World by [WOLFI3654](https://github.com/WOLFI3654)
+
+[41] It's a colorful World by [AlankritaShah](https://github.com/AlankritaShah)
+
+[42] Char level precision by [voidHimanshu](https://github.com/voidHimanshu)
+
+[43] Why use default when you can have your own class print the output by [akshatagrawal9874](https://github.com/akshatagrawal9874)
+
+[44] Con is the only currency we know by [Pinkolik](https://github.com/Pinkolik)
+
+[45] Well, this was a Brainf*** by [Pinkolik](https://github.com/Pinkolik)
+
+[46] (SimonaMS)[https://github.com/SimonaMS] makes stars.
+
+[47] The OG UI component by [syedzubeen](https://github.com/syedzubeen)
+
+[48] The Spring injection overkill by [AlessandroArosio](https://github.com/AlessandroArosio)
+
+[49] Life needs a little Reflection by [apol657](https://github.com/apol657)
+
+[50] Serialization/Deserialization by [hryxna](https://github.com/hryxna)
+
+[51] When 10 is not enough, use 16 by [harisfi](https://github.com/harisfi)
 
 ## Contribute :wink:
 
