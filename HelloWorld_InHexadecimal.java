@@ -7,7 +7,11 @@ public class HelloWorld_InHexadecimal {
 	public static void main(String[] args) {
 		String hexString = "48656c6c6f2c20776f726c6421";
         	byte[] bytes = hexStringToByteArray(hexString);
-        	System.out.println(new String(bytes, "UTF-8"));
+          	try {
+              		System.out.println(new String(bytes, "UTF-8"));
+          	} catch (Exception e) {
+              		e.printStackTrace();
+          	}
 	}
 	
 	public static byte[] hexStringToByteArray(String hex) {
