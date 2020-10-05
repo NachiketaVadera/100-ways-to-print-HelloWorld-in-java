@@ -1,7 +1,7 @@
 import java.util.stream.IntStream;
 import java.util.stream.Collectors;
 
-class Main {
+class HelloWorld_Streams {
   public static void main(String[] args) {
     int[] range = IntStream.range(0, 255).toArray();
     int[] letterCount = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
