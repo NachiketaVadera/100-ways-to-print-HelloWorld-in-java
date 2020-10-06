@@ -1,6 +1,6 @@
-import java.util.*;
 
-class LinearSearch {
+
+class HelloWorld_LinearSearch {
     public static void main(String [] args){
         String a = "Hello World";
 
