@@ -1,6 +1,6 @@
 # 100-ways-to-print-HelloWorld-in-java 
 
-![Count](https://img.shields.io/badge/Currently%20At-63-4b5f81?style=for-the-badge&logo=java&logoColor=green)
+![Count](https://img.shields.io/badge/Currently%20At-63%20out%20of%20100-4b5f81?style=for-the-badge&logo=java&logoColor=green)
 ![GitHub contributors](https://img.shields.io/github/contributors/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?style=for-the-badge)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?color=%23ccffcc&style=for-the-badge)
 
