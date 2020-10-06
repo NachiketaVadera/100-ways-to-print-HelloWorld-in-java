@@ -15,9 +15,10 @@ public class HelloWorld_Using_ArrayList {
         myList.add(" ");
         myList.add("World!");
 
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = null;
 
         if(!myList.isEmpty()) {
+            sb = new StringBuilder();
             for (String str : myList) {
                 sb.append(str);
             }
