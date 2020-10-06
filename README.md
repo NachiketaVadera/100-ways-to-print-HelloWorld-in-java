@@ -1,6 +1,6 @@
 # 100-ways-to-print-HelloWorld-in-java 
 
-![Count](https://img.shields.io/badge/Currently%20At-62-4b5f81?style=for-the-badge&logo=java&logoColor=green)
+![Count](https://img.shields.io/badge/Currently%20At-63-4b5f81?style=for-the-badge&logo=java&logoColor=green)
 ![GitHub contributors](https://img.shields.io/github/contributors/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?style=for-the-badge)
 ![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?color=%23ccffcc&style=for-the-badge)
 
@@ -137,6 +137,8 @@ If you want, you can also contribute to [1000-ways-to-print-hello-world-in-pytho
 [61] A Streamy Affair by (yrahul3910)[https://github.com/yrahul3910]
 
 [62] Selective removal by (AlexNorth-PNG)[https://github.com/AlexNorth-PNG]
+
+[63] The OG search method by (ShadowFax1731)[https://github.com/ShadowFax1731]
 
 ## Contribute :wink:
 
