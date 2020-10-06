@@ -5,7 +5,7 @@
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
-## Currently at: 52
+## Currently at: 62
 
 [1] The usual way
 
@@ -109,7 +109,27 @@ This is a fun quest to find out different ways to print "Hello, World!" in java.
 
 [51] When 10 is not enough, use 16 by [harisfi](https://github.com/harisfi)
 
-[52] Slide to make it appear
+[52] Slide to make it appear.
+
+[53] Charful randomization by [BrandonWerbel](https://github.com/BrandonWerbel)
+
+[54] The unsual way of printing by [pavan-nw](https://github.com/pavan-nw)
+
+[55] [pavan-nw](https://github.com/pavan-nw) has the glue to join strings.
+
+[56] Somethings in life are `java.util.Optional` by [pavan-nw](https://github.com/pavan-nw)
+
+[57] [pavan-nw](https://github.com/pavan-nw) made it Exceptionally fun.
+
+[58] [amogh2019](https://github.com/amogh2019) is a Quick Sorter.
+
+[59] Who doesn't like a matrix? by [rufatiani](https://github.com/rufatiani)
+
+[60] [vaishakhvh](https://github.com/vaishakhvh) respects Properties
+
+[61] A Streamy Affair by (yrahul3910)[https://github.com/yrahul3910]
+
+[62] Selective removal by (AlexNorth-PNG)[https://github.com/AlexNorth-PNG]
 
 ## Contribute :wink:
 
