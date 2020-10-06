@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class HelloWorld_LinearSearch {
-    private static final String ERROR_STRING = "Please provide a list of characters ("'h','e','l','l','o'") and the character to find ('l')";
+    private static final String ERROR_STRING = "Please provide a list of characters (\"'h','e','l','l','o'\") and the character to find ('l')";
     public static void main(String[] args) {
         try {
             // Returns TRUE
