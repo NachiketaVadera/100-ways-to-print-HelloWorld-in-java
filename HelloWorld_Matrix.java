@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class HelloWorld_Matrix {
 
     public static void main(String[] args) {
         String[][] matrix = new String[11][32];
