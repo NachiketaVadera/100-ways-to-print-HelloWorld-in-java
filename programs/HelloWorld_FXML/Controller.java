@@ -20,11 +20,11 @@ public class Controller {
     @FXML
     private void validateInput(){
         if((validationInputField.getText()).equalsIgnoreCase("Hello World")){
-            emotionPic.setImage(new Image(this.getClass().getResourceAsStream("img/trophy.png")));
+            emotionPic.setImage(new Image(this.getClass().getResourceAsStream("assets/trophy.png")));
             validationLabel.setText("Congrats! You have provided valid Input.");
         }
         else{
-            emotionPic.setImage(new Image(this.getClass().getResourceAsStream("img/sad.png")));
+            emotionPic.setImage(new Image(this.getClass().getResourceAsStream("assets/sad.png")));
             validationLabel.setText("Wrong Input! Try Again.");
         }
         emotionPic.setOpacity(1);
