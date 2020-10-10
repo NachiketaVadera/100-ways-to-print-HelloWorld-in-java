@@ -13,13 +13,13 @@ public class HelloWorld_UsingBase64EncryptDecrypt {
         Base64.Encoder base64Encoder = Base64.getEncoder();
 
         String encodedStr = base64Encoder.encodeToString(greeting.getBytes());
-        System.out.println("Encoded string: "+encodedStr);
+        System.out.println("Encoded message: "+encodedStr);
 
         // Get decoder
         Base64.Decoder base64Decoder = Base64.getDecoder();
 
         String decodedStr = new String(base64Decoder.decode(encodedStr));
-        System.out.println("Decoded string: "+decodedStr);
+        System.out.println("Decoded message: "+decodedStr);
 
         if(decodedStr.equals(greeting)) {
             System.out.println("Encryption-Decryption working successfully");
