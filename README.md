@@ -140,9 +140,11 @@ If you want, you can also contribute to [1000-ways-to-print-hello-world-in-pytho
 
 [63] The OG search method by (ShadowFax1731)[https://github.com/ShadowFax1731]
 
+[64] The Builder will fix it by [JohnHanna](https://github.com/jhanna60)
+
 ## Contribute :wink:
 
-Make sure you read [the contributing guidelines](CONTRUBUTING.md).
+Make sure you read [the contributing guidelines](CONTRIBUTING.md).
 
 Why wouldn't you join me in my amazing quest?
 
