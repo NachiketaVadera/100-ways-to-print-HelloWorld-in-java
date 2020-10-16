@@ -6,7 +6,6 @@ public class HelloWorldCallingFunction {
         printChar('l');
         printChar('l');
         printChar('o');
-        printChar(',');
         printChar(' ');
         printChar('W');
         printChar('o');
