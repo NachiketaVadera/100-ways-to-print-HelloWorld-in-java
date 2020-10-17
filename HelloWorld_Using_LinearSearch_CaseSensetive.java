@@ -3,7 +3,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class HelloWorld_Using_LinearSearch(case sensetive!).java{
+public class HelloWorld_Using_LinearSearch_CaseSensetive{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a char: ");
