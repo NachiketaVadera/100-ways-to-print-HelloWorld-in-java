@@ -2,7 +2,7 @@
 
 ![Count](https://img.shields.io/badge/Currently%20At-63%20out%20of%20100-4b5f81?style=for-the-badge&logo=java&logoColor=green)
 ![GitHub contributors](https://img.shields.io/github/contributors/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?style=for-the-badge)
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?color=%23ccffcc&style=for-the-badge)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2021/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?color=%23ccffcc&style=for-the-badge)
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
 
