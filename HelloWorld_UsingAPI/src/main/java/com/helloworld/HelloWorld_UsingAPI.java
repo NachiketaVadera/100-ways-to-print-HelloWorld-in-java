@@ -2,7 +2,7 @@ package com.helloworld;
 
 import org.springframework.web.client.RestTemplate;
 
-public class HelloWorld_PrintFromAPI {
+public class HelloWorld_UsingAPI {
 
   private static void greet() {
     final String uri = "http://localhost:8080/greetings";
