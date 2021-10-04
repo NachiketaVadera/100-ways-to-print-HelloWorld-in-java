@@ -1,6 +1,6 @@
 # 100-ways-to-print-HelloWorld-in-java 
 
-![Count](https://img.shields.io/badge/Currently%20At-65%20out%20of%20100-4b5f81?style=for-the-badge&logo=java&logoColor=green)
+![Count](https://img.shields.io/badge/Currently%20At-66%20out%20of%20100-4b5f81?style=for-the-badge&logo=java&logoColor=green)
 ![GitHub contributors](https://img.shields.io/github/contributors/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?style=for-the-badge)
 
 This is a fun quest to find out different ways to print "Hello, World!" in java. It helps me refresh some concepts and it's a good exercise to think of new methods (java pun) to write a Hello World program.
@@ -142,6 +142,8 @@ If you want, you can also contribute to [1000-ways-to-print-hello-world-in-pytho
 [64] The Builder will fix it by [JohnHanna](https://github.com/jhanna60)
 
 [65] That's a Queued way to do it by [vaibhavss08](https://github.com/vaibhavss08)
+
+[66] [shreyavi](https://github.com/shreyavi) called it like a pro!
 
 ## Contribute :wink:
 
