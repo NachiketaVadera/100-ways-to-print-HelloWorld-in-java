@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @EnableAutoConfiguration
-public class HelloWorld_APICall {
+public class HelloWorld_API {
 
   @RequestMapping("/greetings")
   String greetings() {
@@ -14,7 +14,7 @@ public class HelloWorld_APICall {
   }
 
   public static void main(String[] args) throws Exception {
-    SpringApplication.run(HelloWorld_APICall.class, args);
+    SpringApplication.run(HelloWorld_API.class, args);
   }
 
 }
