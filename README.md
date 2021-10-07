@@ -1,4 +1,4 @@
-# 100-ways-to-print-HelloWorld-in-java 
+# 100-ways-to-print-HelloWorld-in-java
 
 ![Count](https://img.shields.io/badge/Currently%20At-66%20out%20of%20100-4b5f81?style=for-the-badge&logo=java&logoColor=green)
 ![GitHub contributors](https://img.shields.io/github/contributors/NachiketaVadera/100-ways-to-print-HelloWorld-in-java?style=for-the-badge)
@@ -103,7 +103,7 @@ If you want, you can also contribute to [1000-ways-to-print-hello-world-in-pytho
 
 [45] Well, this was a Brainf*** by [Pinkolik](https://github.com/Pinkolik)
 
-[46] (SimonaMS)[https://github.com/SimonaMS] makes stars.
+[46] [SimonaMS](https://github.com/SimonaMS) makes stars.
 
 [47] The OG UI component by [syedzubeen](https://github.com/syedzubeen)
 
@@ -133,11 +133,11 @@ If you want, you can also contribute to [1000-ways-to-print-hello-world-in-pytho
 
 [60] [vaishakhvh](https://github.com/vaishakhvh) respects Properties
 
-[61] A Streamy Affair by (yrahul3910)[https://github.com/yrahul3910]
+[61] A Streamy Affair by [yrahul3910](https://github.com/yrahul3910)
 
-[62] Selective removal by (AlexNorth-PNG)[https://github.com/AlexNorth-PNG]
+[62] Selective removal by [AlexNorth-PNG](https://github.com/AlexNorth-PNG)
 
-[63] The OG search method by (ShadowFax1731)[https://github.com/ShadowFax1731]
+[63] The OG search method by [ShadowFax173](https://github.com/ShadowFax1731)
 
 [64] The Builder will fix it by [JohnHanna](https://github.com/jhanna60)
 
