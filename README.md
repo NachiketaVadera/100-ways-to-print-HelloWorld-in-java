@@ -69,9 +69,9 @@ If you want, you can also contribute to [1000-ways-to-print-hello-world-in-pytho
 
 [28] [rsdiz](https://github.com/rsdiz) uses a Map to navigate.
 
-[29] [notjacob-dev](https://github.com/notjacob-dev) threw the output into a pastebin!
+[29] threw the output into a pastebin!
 
-[30] A temp output but not if you argue, by [notjacob-dev](https://github.com/notjacob-dev)
+[30] A temp output but not if you argue.
 
 [31] Framing the output by [nafladiva](https://github.com/nafladiva)
 
@@ -95,7 +95,7 @@ If you want, you can also contribute to [1000-ways-to-print-hello-world-in-pytho
 
 [41] It's a colorful World by [AlankritaShah](https://github.com/AlankritaShah)
 
-[42] Char level precision by [voidHimanshu](https://github.com/voidHimanshu)
+[42] Char level precision.
 
 [43] Why use default when you can have your own class print the output by [akshatagrawal9874](https://github.com/akshatagrawal9874)
 
